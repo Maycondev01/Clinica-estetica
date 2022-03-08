@@ -1,0 +1,44 @@
+[
+    {
+        "id": "12316",
+        "nome": "Sobrancelha Natural",
+        "preco": 29.99,
+        "desc": "Pinça, Tesoura,Linha",
+        "image": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=700,h=1680,fit=scale-down/wp-content/uploads/2016/12/sobrancelhas_janicejoostemaa.jpg"
+    },
+    {
+        "id": "32461",
+        "nome": "Henna",
+        "preco": 59.99,
+        "desc": "Pinça,Tesoura,Linha e Henna",
+        "image": "https://i.pinimg.com/originals/fa/41/d2/fa41d2df8112925e8060fe2cbebfe40c.jpg"
+    },
+    {
+        "id": "14473",
+        "nome": "Sobrancelha Desenhada",
+        "preco": 65.00,
+        "desc": "Desenhar a sobrancelha",
+        "image": "https://cdn.eutotal.com/imagens/flare-14-cke.jpg"
+    },
+    {
+        "id": "684446",
+        "nome": "Micropigmentação",
+        "preco": 99.99,
+        "desc": "Micropigmentação",
+        "image": "https://sobrancelhas.conceitosobrancelhas.com.br/imagens/micropigmentacao-na-sobrancelha-marcar.jpg"
+    },
+    {
+        "id": "88974",
+        "nome": "Sobrancelha Fina",
+        "preco": 29.99,
+        "desc": "Sobrancelha desenhada fina",
+        "image": "https://cabelosetendencias.com.br/wp-content/uploads/2019/07/Como-fazer-sobrancelha-de-rena.jpg"
+    },
+    {
+        "id": "98743",
+        "nome": "Extensão de Cílios",
+        "preco": 50.00,
+        "desc": "Alongar os Cílios",
+        "image": "https://ogimg.infoglobo.com.br/in/24233170-a9e-707/FT1086A/86793375_EL-exclusivo-alongamento-de-cilios-1.jpg"
+    }
+]

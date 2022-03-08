@@ -1,0 +1,36 @@
+#video {
+    position: absolute;
+    width: 90%;
+    height: 90%;
+    margin-left: 5rem;
+    margin-top: 5rem;
+}
+
+.pai {
+    height: 100vh;
+    width: 100%;
+    background: #000;
+}
+.pai .content {
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 4rem;
+}
+.content h1 {
+    margin-bottom: 2rem;
+    
+}
+
+
+
+@media screen and (max-width: 940px) {
+    #video {
+        width: 90%;
+        height: 80vh;
+        align-items: center;
+        left: -14%;
+    }
+}
+

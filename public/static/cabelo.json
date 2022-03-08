@@ -1,0 +1,44 @@
+[
+    {
+        "id": "226423",
+        "nome": "Mechas Platinadas",
+        "preco": 110.99,
+        "desc": "Cabelo + Mechas",
+        "image": "https://salaovirtual.org/wp-content/uploads/2017/03/escuros-com-balaiagem-platinada.jpg"
+    },
+    {
+        "id": "894561",
+        "nome": "Loiro",
+        "preco": 199.99,
+        "desc": "Cabelo + Coloração Loira",
+        "image": "https://blog.waufen.com.br/wp-content/uploads/2019/06/cabelos-loiros-marco-antonio-de-biaggi-surfista.jpg"
+    },
+    {
+        "id": "21316",
+        "nome": "Preto Azulado",
+        "preco": 99.99,
+        "desc": "Cabelo + Coloração Preta-Azulada",
+        "image": "https://www.minhatatuagem.com/wp-content/uploads/2021/03/cabelo-preto-azulado-50.jpg"
+    },
+    {
+        "id": "245137",
+        "nome": "Chanel",
+        "preco": 119.99,
+        "desc": "Chanel de bico",
+        "image": "https://i.pinimg.com/736x/d6/0e/d3/d60ed301c434d4b3dd9695db9e2f3399.jpg"
+    },
+    {
+        "id": "88974",
+        "nome": "Trançado",
+        "preco": 155.99,
+        "desc": "Cabelo Trançado",
+        "image": "https://www.dicasdemulher.com.br/wp-content/uploads/2015/05/trancas-no-cabelo-012.jpg"
+    },
+    {
+        "id": "647215",
+        "nome": "Pixie",
+        "preco": 139.99,
+        "desc": "Corte Pixie",
+        "image": "https://i.pinimg.com/736x/0a/80/7a/0a807a416dede2d4ee7ee5190b8467f7.jpg"
+    }
+]
